@@ -1,0 +1,46 @@
+.badge {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 30px;
+
+  &--grey {
+    background-color: #a7a7a7;
+  }
+
+  &--green {
+    background-color: #428883;
+  }
+
+  &--blue {
+    background-color: #64c4ed;
+  }
+
+  &--pink {
+    background-color: #ffbbcc;
+  }
+
+  &--green-light {
+    background-color: #9affa7;
+  }
+
+  &--lime {
+    background-color: #b6e6bd;
+  }
+
+  &--purple {
+    background-color: #c355f5;
+  }
+
+  &--black {
+    background-color: #110133;
+  }
+
+  &--red {
+    background-color: #ff6464;
+  }
+
+  &--lime {
+    background-color: #b6e6bd;
+  }
+}
